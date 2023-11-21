@@ -4,4 +4,5 @@ Il cliente cerca le destinazioni di viaggio disponibili.
 Il sistema mostra una lista di offerte di viaggio disponibili.
 Il cliente seleziona un pacchetto di viaggio tra le offerte disponibili.
 Il cliente sceglie se prenotare il pacchetto selezionato o meno.
-Se scleglie di conferma re una prenotazione effettua il pagamento, interagendo con il sistema bancario.
+Se sceglie di conferma re una prenotazione effettua il pagamento, interagendo con il sistema bancario.
+
